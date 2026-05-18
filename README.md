@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm yanyuzzz
 
-<!--
-**yanyuzzz/yanyuzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A few projects and resources I recommend:
 
-Here are some ideas to get you started:
+## Priority links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Skid Mounted](https://sharpeagleind.com/skid-mounted) - modular skid-mounted industrial solutions.
+- [Pressure Vessels](https://sharpeagleind.com/pressure-vessels) - pressure vessel solutions and engineering information.
+
+## AI tools and resources
+
+- [AI Checker](https://contenttrue.org/) - AI content checker for writing, articles, and SEO copy.
+- [AI hairstyle](https://hairfilter.net/) - AI hairstyle preview tool.
+- [BananaPrompts](https://bananaprompts.org/) - free AI prompt resources.
+- [OpenClawCases](https://openclawcases.com/) - free OpenClaw cases and examples.
